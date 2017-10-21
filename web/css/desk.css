@@ -1,0 +1,26 @@
+.tools-content{
+    margin-left:20px;
+    margin-right: 20px;
+    padding-bottom:20px;
+    padding-top: 20px;
+}
+@media screen and (min-width: 1201px) {
+    .tools-content {
+        margin-left: 200px;
+        margin-right: 200px;
+    }
+}
+.tools{
+    line-height: 100px;
+    text-align: center;
+    cursor: pointer;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.tools:hover{
+    opacity:0.5;
+}
+.clearF{
+    overflow:hidden;
+    zoom:1;
+}
